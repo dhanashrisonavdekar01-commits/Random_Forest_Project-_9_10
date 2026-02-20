@@ -1,6 +1,5 @@
 # Random_Forest_Project-_9_10
 Machine Learning Classification projects using Random Forest Algorithm for Fraud Data and Company Sales Prediction with complete EDA, modular code, insights, and business impact analysis.
-# Classification with Random Forest 
 
 This repository contains two Machine Learning Classification projects implemented using Random Forest Algorithm.
 
